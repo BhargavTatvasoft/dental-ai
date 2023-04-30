@@ -5,4 +5,3 @@ Pillow==9.0.0
 Pillow==9.5.0
 streamlit==1.0.0
 tensorflow==2.8.0
-~ensorflow==2.6.0
