@@ -31,7 +31,7 @@ def predict(image, emailTo, name):
     if result[0][0] > 0.40:
         emailFrom = "periodetection@outlook.com"
         smtp_server = "smtp-mail.outlook.com"
-        password = "yash@2005"
+        password = "----"
         
         message = f"""\
             Subject: Patient Notification
